@@ -10,6 +10,7 @@ QUIPUX trabajo con las base de datos Documental y Transaccional
   Base de datos Transaccional (quipux_comiunidad)
     - quipux.sql
     - particionamiento_log_acceso.sql
+  
   Base de datos Documental (quipux_combodega)
     - quipux-bodega.sql
     - repositorios.sql
