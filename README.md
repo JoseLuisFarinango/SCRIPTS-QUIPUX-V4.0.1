@@ -1,5 +1,6 @@
 # SCRIPTS-QUIPUX-V4.0.1
 BASE DE DATOS DEL SISTEMA DE GESTION DOCUMENTAL QUIPUX VERSIÓN 4.0.1
+
 QUIPUX trabajo con las base de datos Documental y Transaccional
 
 - Para la implementación de las bases de datos se debe utilizar el repositorio PostgreSQL.
